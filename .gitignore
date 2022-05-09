@@ -73,8 +73,8 @@
 !/**/*.jl
 
 #pkg
-!.pkg
-!.toc
+!/**/*.pkg
+!/**/*.toc
 
 #Files to create custom layout and functionality
 # in dashboards, markdown notebooks, bookdown etc.
