@@ -72,6 +72,10 @@
 # Julia
 !/**/*.jl
 
+#pkg
+!.pkg
+!.toc
+
 #Files to create custom layout and functionality
 # in dashboards, markdown notebooks, bookdown etc.
 !/**/*.css
