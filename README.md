@@ -12,7 +12,7 @@ Lower prices resulting from higher competition in the production of any good ben
 
 
 # Install
-1) Please install the ```github``` module for installing Stata packages conceived by E. F. Haghish. For more information please click [here.] (http://users.jyu.fi/~mivaanro/github/) To install github please run the following command
+1) Please install the ```github``` module for installing Stata packages conceived by E. F. Haghish. For more information please click [here.](http://users.jyu.fi/~mivaanro/github/) To install github please run the following command
 
 ```
 net install github, from("https://haghish.github.io/github/")
