@@ -11,7 +11,7 @@ Poor households are typically more exposed to the potential negative effects of 
 Lower prices resulting from higher competition in the production of any good benefits both current and potential new consumers previously “priced out” of a market.  The WELCOM tool also enables users to identify the likely entry effects of new consumers due to lower prices of goods and services through the MCWEL module, as well as the likely welfare effects for those new entrants, through the “Market Competition and the Extensive Margin Analysis” (MCEMA) module.
 
 
-# Install
+# Install Method 1
 1) Please install the ```github``` module for installing Stata packages conceived by E. F. Haghish. For more information please click [here.](http://users.jyu.fi/~mivaanro/github/) To install github please run the following command
 
 ```
@@ -38,7 +38,7 @@ exit
 
 4) Close Stata and reopen. 
 
-
+# Install Method 2
 Alternatively the user can also install WELCOM by carrying out the following steps. 
 
 1) Download the welcom.rar file, unzip the folder in a local directory. For instance, "c:/temp". 
