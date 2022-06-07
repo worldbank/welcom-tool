@@ -23,6 +23,21 @@ net install github, from("https://haghish.github.io/github/")
 ```
 github install worldbank/welcom-tool
 ```
+3) In new *.do file., please execute the following
+
+```
+* To make WB Open Data work
+set checksum off, permanently
+
+* To add WELCOM tool to menu
+_welcom_menu
+
+exit
+
+```
+
+4) Close Stata and reopen. 
+
 
 Alternatively the user can also install WELCOM by carrying out the following steps. 
 
