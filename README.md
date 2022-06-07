@@ -12,6 +12,19 @@ Lower prices resulting from higher competition in the production of any good ben
 
 
 # Install
+1) Please install the ```github``` module for installing Stata packages conceived by E. F. Haghish. For more information please click [here.] (http://users.jyu.fi/~mivaanro/github/) To install github please run the following command
+
+```
+net install github, from("https://haghish.github.io/github/")
+```
+
+2) Please run the following command to install WELCOM using the Stata ```github``` package by E. F. Haghish
+
+```
+github install worldbank/welcom-tool
+```
+
+Alternatively the user can also install WELCOM by carrying out the following steps. 
 
 1) Download the welcom.rar file, unzip the folder in a local directory. For instance, "c:/temp". 
 
